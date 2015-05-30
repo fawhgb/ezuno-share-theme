@@ -1,4 +1,4 @@
-# ezuno Alfresco Share Theme
+# "ezuno" Alfresco Share Theme
 
 Minimalistic, Slick, Paper-like Alfresco Share Theme
 
