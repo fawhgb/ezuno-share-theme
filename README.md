@@ -4,7 +4,7 @@ Minimalistic, Slick, Paper-like Alfresco Share Theme
 
 ## About
 
-I like minimalistic themes with no unnecessary coloring, focusing on the content.
+I like minimalistic themes. No unnecessary coloring, focusing on the content.
 
 The Alfresco "ezuno" Theme is a paper-like theme with white background and borders like lines on a writing pad. 
 
